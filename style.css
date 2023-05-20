@@ -68,7 +68,8 @@ header .navegacao-primaria li a {
     border: 2px solid white;
 }
 .section-div img {
-    max-width: 50%; 
+    width: 1200px;
+    max-width: 100%; 
 }
 
 .digitando::after{
